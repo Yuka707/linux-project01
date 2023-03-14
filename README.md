@@ -14,3 +14,5 @@ The son asks,
 `} else {`
 `  System.out.println("NOT positive");`
 `}`
+
+# СПАСИБО ЗА ВНИМАНИЕ #
